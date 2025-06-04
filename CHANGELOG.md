@@ -1,5 +1,17 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.0 (04-06-25)
+
+- [new] icon for sidebar on the right side
+- [new] file-based icons are now opt-in via the `monokai_pro_file_based_icons` setting
+- [new] theme is compatible with the plugin "A File Icon"
+- [fix] `monokai_pro_sidebar_lighter` now also affects ignored files and works in light themes
+- [new] F# icon
+- [new] JavaScript / TypeScript unit test icons
+- [fix] namespace coloring
+- [fix] updated plugin python version from 3.3 to 3.8
+- [fix] moved automatically generated theme files from `Packages/User` folder into the `Packages` folder.
+
 ## 2.0.6 (15-01-25)
 
 - [fix] minimal UI padding fixes

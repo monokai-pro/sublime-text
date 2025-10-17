@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.2 (25-10-17)
+
+- [new] jupyter icon
+- [new] gradle icon
+- [new] js decorator color
+
 ## 2.1.1 (25-10-04)
 
 - [new] auto dark / light mode based on system configuration

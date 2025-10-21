@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.3 (25-10-21)
+
+- [new] skill icon
+
 ## 2.1.2 (25-10-17)
 
 - [new] jupyter icon

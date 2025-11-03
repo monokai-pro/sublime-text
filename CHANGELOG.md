@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.4 (25-11-03)
+
+- [new] zig icon
+- [new] polyglot notebook icon
+
 ## 2.1.3 (25-10-21)
 
 - [new] skill icon
@@ -25,18 +30,18 @@
 - [new] icon for sidebar on the right side
 - [new] file-based icons are now opt-in via the `monokai_pro_file_based_icons` setting
 - [new] theme is compatible with the plugin "A File Icon"
-- [fix] `monokai_pro_sidebar_lighter` now also affects ignored files and works in light themes
 - [new] F# icon
 - [new] JavaScript / TypeScript unit test icons
+- [fix] `monokai_pro_sidebar_lighter` now also affects ignored files and works in light themes
 - [fix] namespace coloring
 - [fix] updated plugin python version from 3.3 to 3.8
 - [fix] moved automatically generated theme files from `Packages/User` folder into the `Packages` folder.
 
 ## 2.0.6 (25-01-15)
 
-- [fix] minimal UI padding fixes
 - [new] cuda c++ icons
 - [new] bun.lock icon
+- [fix] minimal UI padding fixes
 
 ## 2.0.3 (24-12-04)
 
@@ -122,11 +127,11 @@
 
 ## 1.1.20 (22-01-19)
 
+- [new] inactive sheet color
 - [fix] JSON key / value colors
 - [fix] update / about dialog contrast
 - [fix] ruby module color
 - [fix] c placeholders color
-- [new] inactive sheet color
 
 ## 1.1.19 (21-04-06)
 
@@ -190,25 +195,25 @@
 
 ## 1.1.10 (19-02-18)
 
-- [fix] fixed function arguments color in c++
-- [fix] markup_style fill colors for sublime linter
 - [new] added terraform icon
 - [new] changed git icon from octocat to official git icon
 - [new] switched to new color scheme syntax
 - [new] added diff gutter colors
+- [fix] fixed function arguments color in c++
+- [fix] markup_style fill colors for sublime linter
 
 ## 1.1.9 (18-11-12)
 
-- [fix] title bar has same color as background when ui is minimal
-- [fix] SCSS updates
-- [fix] small user interface tweaks
-- [fix] latex citation constant highlighting
-- [fix] php constant highlighting
 - [new] folder duplicate icon
 - [new] folder loading icon
 - [new] todo icon
 - [new] julia icon
 - [new] fortran icon
+- [fix] title bar has same color as background when ui is minimal
+- [fix] SCSS updates
+- [fix] small user interface tweaks
+- [fix] latex citation constant highlighting
+- [fix] php constant highlighting
 
 ## 1.1.8 (18-06-11)
 
@@ -216,27 +221,27 @@
 
 ## 1.1.7 (18-06-10)
 
-- [fix] ruby syntax highlighting fixes
-- [fix] javascript class name colors
-- [fix] github icon
-- [fix] go icon
 - [new] npm icon
 - [new] angular icon
 - [new] erlang icon
 - [new] typescript icon
 - [new] reason icon
+- [fix] ruby syntax highlighting fixes
+- [fix] javascript class name colors
+- [fix] github icon
+- [fix] go icon
 
 ## 1.1.6 (18-04-11)
 
-- [fix] sublime-linter gutter theme definition
-- [fix] embedded entities fix
-- [fix] invisibles a bit less prominent
 - [new] git status syntax highlighting
 - [new] square selections in dev build
 - [new] region.colorish definitions
 - [new] pug icon
 - [new] elixir icon
 - [new] graphql icon
+- [fix] sublime-linter gutter theme definition
+- [fix] embedded entities fix
+- [fix] invisibles a bit less prominent
 
 ## 1.1.5 (17-12-31)
 

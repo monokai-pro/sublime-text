@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.5 (25-12-17)
+
+- [new] vite icon
+- [new] odin icon
+- [new] assembly icon
+
 ## 2.1.4 (25-11-03)
 
 - [new] zig icon

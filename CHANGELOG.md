@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.1.6 (26-01-07)
+
+- [new] web assembly icon
+- [new] solidity icon
+- [new] gemini icon
+
 ## 2.1.5 (25-12-17)
 
 - [new] vite icon

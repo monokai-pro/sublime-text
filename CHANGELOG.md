@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.2.0 (26-05-05)
+
+- [fix] updated plugin python version from 3.8 to 3.14 for version 4205+
+
 ## 2.1.6 (26-01-07)
 
 - [new] web assembly icon

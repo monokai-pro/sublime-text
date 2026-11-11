@@ -1,5 +1,14 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.3.0 (26-11-11)
+
+- [new] file-based icons are defined via the new sublime-file-icons syntax
+- [new] mysql icon
+- [new] sparksql icon
+- [new] postgresql icon
+- [new] flinksql icon
+- [new] hive icon
+
 ## 2.2.1 (26-09-08)
 
 - [new] vitest icon
